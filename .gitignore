@@ -1,0 +1,7 @@
+*.o
+*.orig
+*.rej
+*.diff
+*.png
+.ccls-cache
+dwm
