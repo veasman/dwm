@@ -2,7 +2,7 @@
 
 <br />
 <p align="center">
-  <a href="https://github.com/veasman/Monke">
+  <a href="https://github.com/veasman/dwm">
     <img src="./res/showcase.png">
   </a>
 </p>
