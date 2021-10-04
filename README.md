@@ -1,5 +1,12 @@
 # veasman's build of dwm
 
+<br />
+<p align="center">
+  <a href="https://github.com/veasman/Monke">
+    <img src="./res/showcase.png">
+  </a>
+</p>
+
 ## Patches and features
 
 - Fullscreen toggle: Press Mod+Shift+F to make a window fullscreen
